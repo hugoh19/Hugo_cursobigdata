@@ -1,7 +1,7 @@
 # cursobigdata
 
 
-S5D2: Semana 5 Día 2 del curso "Big Data"
+_S5D2: Semana 5 Día 2 del curso "Big Data"_
 
   2.Hugo_SpaceX - 1 - Data Collection Api v2.ipynb     --->   Ejercicio con pandas sobre datos de SpaceX
 
@@ -12,7 +12,7 @@ S5D2: Semana 5 Día 2 del curso "Big Data"
 ----------------------------------------------------------------------------------------------------------------------
 
 
-S5D1: Semana 5 Día 1 del curso "Big Data"
+_S5D1: Semana 5 Día 1 del curso "Big Data"_
 
   Hugo_M5 - 01 - Python Notebook   --->   Teoría y ejercicios en Python sobre tipos de datos
   
