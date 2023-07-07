@@ -1,6 +1,14 @@
 # cursobigdata
 
+*S5D3: Semana 5 Día 3 del curso "Big Data"
 
+3.Hugo_M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb ---> Ejercicios sobre modelos predictivos basados en regresión lineal
+
+3.Hugo_M5 - 09 - Folium.ipynb ---> Ejercicio sobre creación de mapas
+
+3.Hugo_Prophet - Predecir el valor de las acciones de Openbank ---> Ejercicio sobre entrenar el modelo predictivo Prophet
+
+----------------------------------------------------------------------------------------------------------------------
 
 _*S5D3: Semana 5 Día 3 del curso "Big Data"_
 
