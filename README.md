@@ -1,5 +1,14 @@
 # cursobigdata
 
+
+*S5D5: Semana 5 Día 5 del curso "Big Data"
+
+5.Hugo_Repaso Teoría - Curso Actualízate M5.docx ---> Preguntas de teoría sobre Python y Machine Learning
+
+5.Hugo_SpaceX - 4 - EDA with Data Visualization.ipynb ---> Ejercicio sobre gráficas con datos basados en lanzamientos de SpaceX
+
+----------------------------------------------------------------------------------------------------------------------
+
 *S5D4: Semana 5 Día 4 del curso "Big Data"
 
 4.Hugo_M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium ---> Análisis de ubicaciones de estaciones de lanzamiento de SpaceX
