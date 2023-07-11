@@ -1,11 +1,20 @@
 # cursobigdata
 
 
+*S6D1: Semana 6 Día 1 del curso "Big Data"
+
+6.Hugo_M6 - 01 - Funciones ---> Teoría y ejercicios sore funciones
+
+6.Hugo_M6 - 02 - Clases ---> Teoría y ejercicios sobre clases
+
+----------------------------------------------------------------------------------------------------------------------
+
+
 *S5D5: Semana 5 Día 5 del curso "Big Data"
 
-5.Hugo_Repaso Teoría - Curso Actualízate M5.docx ---> Preguntas de teoría sobre Python y Machine Learning
+5.Hugo_Repaso Teoría - Curso Actualízate M5 ---> Preguntas de teoría sobre Python y Machine Learning
 
-5.Hugo_SpaceX - 4 - EDA with Data Visualization.ipynb ---> Ejercicio sobre gráficas con datos basados en lanzamientos de SpaceX
+5.Hugo_SpaceX - 4 - EDA with Data Visualization ---> Ejercicio sobre gráficas con datos basados en lanzamientos de SpaceX
 
 ----------------------------------------------------------------------------------------------------------------------
 
