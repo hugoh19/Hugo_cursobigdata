@@ -1,7 +1,14 @@
 # cursobigdata
 
 
-*S6D1: Semana 6 Día 1 del curso "Big Data"
+_*S6D2: Semana 6 Día 2 del curso "Big Data"_
+
+7.Hugo_M6 - 04 - Programación Funcional ---> Ejemplos sobre programación funcional con lambda, map y filter
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+_*S6D1: Semana 6 Día 1 del curso "Big Data"_
 
 6.Hugo_M6 - 01 - Funciones ---> Teoría y ejercicios sore funciones
 
@@ -10,7 +17,7 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 
-*S5D5: Semana 5 Día 5 del curso "Big Data"
+_*S5D5: Semana 5 Día 5 del curso "Big Data"_
 
 5.Hugo_Repaso Teoría - Curso Actualízate M5 ---> Preguntas de teoría sobre Python y Machine Learning
 
@@ -18,7 +25,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-*S5D4: Semana 5 Día 4 del curso "Big Data"
+_*S5D4: Semana 5 Día 4 del curso "Big Data"_
 
 4.Hugo_M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium ---> Análisis de ubicaciones de estaciones de lanzamiento de SpaceX
 
