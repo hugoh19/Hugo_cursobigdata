@@ -1,6 +1,18 @@
 # cursobigdata
 
 
+
+_*S6D3: Semana 6 Día 3 del curso "Big Data"_
+
+8.Hugo_M6 - 07 - Transformaciones y Acciones sobre RDDs ---> Ejercicios sobre RDDs leídos desde archivos
+
+8.Hugo_M6 - 03 - Primer RDD Teoría --> Crear archivos RDDs a partir de una lista y a partir de un archivo
+
+8.Hugo_M6 - 02 - SparkSession Teoría ---> Sesiones y contextos en Spark
+
+----------------------------------------------------------------------------------------------------------------------
+
+
 _*S6D2: Semana 6 Día 2 del curso "Big Data"_
 
 7.Hugo_M6 - 04 - Programación Funcional ---> Ejemplos sobre programación funcional con lambda, map y filter
