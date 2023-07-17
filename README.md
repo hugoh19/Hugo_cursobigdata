@@ -3,7 +3,7 @@
 
 _*S6D5: Semana 6 Día 5 del curso "Big Data"_
 
-10.Hugo_SpaceX - 3 -EDA Using SQL ---> Ejercicios sobre querys sobre una base de datos en la nube
+10.Hugo_SpaceX - 3 -EDA Using SQL ---> Ejercicios sobre querys sobre la base de datos SPACEX en la nube
 
 ----------------------------------------------------------------------------------------------------------------------
 
